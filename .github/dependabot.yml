@@ -7,3 +7,4 @@ updates:
     exclude-paths:
       - "requirements.txt"
 
+
