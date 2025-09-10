@@ -1,0 +1,4 @@
+# Legacy benchmark dependencies  
+Chameleon==3.8.1
+Mako==1.1.4
+six==1.15.0
