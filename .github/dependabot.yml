@@ -6,4 +6,5 @@ updates:
       interval: "weekly"
     exclude-paths:
       - "requirements.txt"
+      - "pyperformance/data-files/**"
 
