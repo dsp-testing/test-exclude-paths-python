@@ -1,3 +1,2 @@
 -r requirements.txt
-pyperformance/requirements/requirements.txt
 pytest==6.2.0
